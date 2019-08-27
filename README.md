@@ -5,4 +5,4 @@
 * [掘金](https://juejin.im/user/593d1051128fe1006ae4dde8/posts)
 
 #### | VUE全家桶
-1.[从头开始学vue-router](https://github.com/zhengjiaqing/blog/issues/8#issue-485640253)
+1.[从头开始学Vue-Router](https://github.com/zhengjiaqing/blog/issues/8#issue-485640253)
