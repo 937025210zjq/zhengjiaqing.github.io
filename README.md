@@ -8,3 +8,5 @@
 1.[从头开始学VueRouter](https://github.com/zhengjiaqing/blog/issues/8#issue-485640253)
 
 2.[Vue组件通信大全(终结篇)](https://github.com/zhengjiaqing/blog/issues/10#issue-502394313)
+
+3.[浅谈Vue中的虚拟DOM](https://github.com/zhengjiaqing/blog/issues/10#issue-502394313)
