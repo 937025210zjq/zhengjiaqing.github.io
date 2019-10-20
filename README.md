@@ -9,4 +9,4 @@
 
 2.[Vue组件通信大全(终结篇)](https://github.com/zhengjiaqing/blog/issues/10#issue-502394313)
 
-3.[浅谈Vue中的虚拟DOM]
+3.[浅谈Vue中的虚拟DOM](https://github.com/zhengjiaqing/blog/issues/11#issue-509589620)
